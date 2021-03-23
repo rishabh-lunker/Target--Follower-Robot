@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target follow_marker[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/follow_marker.dir/src/marker_follower.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/follow_marker.dir/src/follow_marker_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/rishabh/grobot_ws/devel/.private/grobot_navigation/lib/grobot_navigation/follow_marker[0m
+[100%] Built target follow_marker

@@ -1,0 +1,4 @@
+Symlinking /home/rishabh/grobot_ws/devel/lib/pkgconfig/grobot_navigation.pc
+Symlinking /home/rishabh/grobot_ws/devel/lib/grobot_navigation/follow_marker
+Symlinking /home/rishabh/grobot_ws/devel/share/grobot_navigation/cmake/grobot_navigationConfig.cmake
+Symlinking /home/rishabh/grobot_ws/devel/share/grobot_navigation/cmake/grobot_navigationConfig-version.cmake

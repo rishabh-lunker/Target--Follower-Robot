@@ -1,0 +1,5 @@
+Symlinking /home/rishabh/grobot_ws/devel/etc/catkin/profile.d/model.bash
+Symlinking /home/rishabh/grobot_ws/devel/etc/catkin/profile.d/model.zsh
+Symlinking /home/rishabh/grobot_ws/devel/lib/pkgconfig/grobot_bringup.pc
+Symlinking /home/rishabh/grobot_ws/devel/share/grobot_bringup/cmake/grobot_bringupConfig-version.cmake
+Symlinking /home/rishabh/grobot_ws/devel/share/grobot_bringup/cmake/grobot_bringupConfig.cmake
